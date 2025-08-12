@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meetus_vr/static/css/main.25e288ef.css",
+    "main.js": "/meetus_vr/static/js/main.ae462cf3.js",
+    "static/js/453.8adb0212.chunk.js": "/meetus_vr/static/js/453.8adb0212.chunk.js",
+    "static/media/Logo.png": "/meetus_vr/static/media/Logo.3fd23d66eb02231bc500.png",
+    "index.html": "/meetus_vr/index.html",
+    "main.25e288ef.css.map": "/meetus_vr/static/css/main.25e288ef.css.map",
+    "main.ae462cf3.js.map": "/meetus_vr/static/js/main.ae462cf3.js.map",
+    "453.8adb0212.chunk.js.map": "/meetus_vr/static/js/453.8adb0212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e288ef.css",
+    "static/js/main.ae462cf3.js"
+  ]
+}
